@@ -13,6 +13,7 @@ Unlock every blook, farm tokens, auto‑win any game mode, and dominate the lobb
 </div>
 
 ---
+<img width="1256" height="695" alt="gssfsd" src="https://github.com/user-attachments/assets/e15d79e5-4387-420d-98a2-c36a6a8c3408" />
 
 ## 🔥 Features
 
